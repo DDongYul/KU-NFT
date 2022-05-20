@@ -1,0 +1,31 @@
+{
+  "name": "KU NFT #4",
+  "description": "this is KU NFT collection",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "7337bdfbea9485bc0ed22a30a966bc3ba97fd3ff",
+  "edition": 4,
+  "date": 1651987315284,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "kongoose"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "shoulder_strap"
+    },
+    {
+      "trait_type": "Glass",
+      "value": "sunglass"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "bread_hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

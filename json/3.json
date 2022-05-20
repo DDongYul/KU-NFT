@@ -1,0 +1,31 @@
+{
+  "name": "KU NFT #3",
+  "description": "this is KU NFT collection",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "898b19e5c0c1c34bde8c8bfe3b2e7fff80468779",
+  "edition": 3,
+  "date": 1651987315222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "konduck"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "shoulder_strap"
+    },
+    {
+      "trait_type": "Glass",
+      "value": "glass4"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

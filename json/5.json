@@ -1,0 +1,31 @@
+{
+  "name": "KU NFT #5",
+  "description": "this is KU NFT collection",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "5d279e7c854d72f696a0c96d8e5c3e70bf2d70c3",
+  "edition": 5,
+  "date": 1651987315374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sky_blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "koo"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "konkuk"
+    },
+    {
+      "trait_type": "Glass",
+      "value": "sunglass"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
